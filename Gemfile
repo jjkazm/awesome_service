@@ -10,6 +10,10 @@ gem 'rails', '~> 5.2.2'
 gem 'haml', '~> 5.0', '>= 5.0.4'
 gem 'html2haml', '~> 2.2'
 
+# Use bootstrap 4
+gem 'bootstrap', '~> 4.2.1'
+gem 'jquery-rails'
+
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
